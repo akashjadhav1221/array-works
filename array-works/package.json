@@ -1,0 +1,14 @@
+{
+  "name": "array-works",
+  "author": "Akash Jadhav",
+  "description": "Asynchronously compare two array and check if elements has equal property and get matched indices.",
+  "version": "1.0.0",
+  "keywords": ["array", "asynchronous", "for", "loop", "compare", "properties", "match", "index"],
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
